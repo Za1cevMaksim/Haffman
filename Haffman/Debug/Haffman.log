@@ -1,0 +1,6 @@
+﻿  Haffman.cpp
+C:\Users\User\source\repos\Haffman\Haffman.cpp(193,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Haffman\Haffman.cpp(195,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Haffman\Haffman.cpp(266,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Haffman\Haffman.cpp(378,12): warning C4018: <: несоответствие типов со знаком и без знака
+  Haffman.vcxproj -> C:\Users\User\source\repos\Haffman\Debug\Haffman.exe
